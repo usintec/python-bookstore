@@ -1,0 +1,2 @@
+# Background:
+Imagine you are the owner of a small but popular independent bookstore. To keep track of your inventory, you need an efficient system that allows you to manage and update the books in stock easily. As a budding Python programmer, you decide to create a set of functions that will help you automate this process. This assignment will help you apply your Python skills to a real-world scenario, enabling you to manage your bookstore inventory effectively.
